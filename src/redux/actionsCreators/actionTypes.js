@@ -1,0 +1,3 @@
+export const RENEW_WINDOW_WIDTH = "RENEW_WINDOW_WIDTH"
+export const ADD_TODO = "ADD_TODO"
+export const REMOVE_TODO = "REMOVE_TODO"
